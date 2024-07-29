@@ -56,3 +56,5 @@ public class ClienteRestController {
 		return ResponseEntity.ok().build();
 	}
 }
+
+// Copia do desafio para aprendizado //
